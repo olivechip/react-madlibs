@@ -1,4 +1,4 @@
-### Conceptual Exercise
+<!-- ### Conceptual Exercise
 
 Answer the following questions below:
 
@@ -41,4 +41,4 @@ Answer the following questions below:
 - use ref when DOM manipulation needed, persisting values across re-renders. don't overuse useRef because it kills the whole point of react. 
 
 - What is a custom hook in React? When would you want to write one?
-<!-- customHook is a custom function u can create, starter with 'use' . re-usbale functions that can make repetitive components easier to program.  -->
+customHook is a custom function u can create, starter with 'use' . re-usbale functions that can make repetitive components easier to program.  -->
