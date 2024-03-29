@@ -16,7 +16,7 @@ Answer the following questions below:
 
 - How is a Component created in React?
   
-  create a function that takes props, returns single element with whatever you want rendered in html, called with "<Component />" in the App.js file
+  create a function that takes props, returns single element with whatever you want rendered in html, called with "< Component / >" in the App.js file
 
 - What are some difference between state and props?
   
